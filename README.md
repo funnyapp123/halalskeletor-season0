@@ -4,7 +4,7 @@ These are the Spigot Servers
 
 These are to be opened in 1.15.2
 
-No player data was recorded (everyone spawns at world spawn, no inventory, no e chest, etc)
+No player data was recorded (everyone spawns at world spawn, no inventory, no e chest, etc [regular chests are unaffected and still have items])
 
 No player reached The End.
 
