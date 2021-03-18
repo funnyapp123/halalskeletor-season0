@@ -11,6 +11,7 @@ The worlds are defaulted to:
 - doDaylightCycle true
 - doWeatherCycle true
 - Cheats off
+
 (if you want to change theses just open the world to LAN with cheats enabled)
 
 CILANTRO:
