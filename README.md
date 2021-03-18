@@ -3,7 +3,10 @@ These are the Spigot Servers
 
 These are to be opened in 1.15.2
 
-All player data was not recorded.
+No player data was recorded (everyone spawns at world spawn, no inventory, no e chest, etc)
+
+No player reached The End.
+
 
 The worlds are defaulted to:
 - Normal Difficulty
