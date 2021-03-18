@@ -15,7 +15,13 @@ The worlds are defaulted to:
 (if you want to change theses just open the world to LAN with cheats enabled)
 
 CILANTRO:
+
 COORDS (X, Z)
+
+
 Jacob's House: 249, 18
+
 Ben's House: 58, 222
+
 Matt's House: 
+
