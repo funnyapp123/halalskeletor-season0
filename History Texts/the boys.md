@@ -1,0 +1,3 @@
+# The Boys History
+
+Ok, so not much happened in The Boys. I set up the world and the portal to the hub I built at spawn was destroyed instantly. The spawn region then had a cobblestone base built on it with water and signs. Romeo went thousands of blocks away to build a small camp with several different buildings, the most notable being the Granite Tower. Nobody else really joined, though, so Romeo lost interest very quickly. That's it. That's the boys. Nobody except for one person ever joined, leading to that one's demise.
