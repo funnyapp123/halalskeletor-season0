@@ -1,3 +1,4 @@
+# Season 0
 
 These are the Spigot Servers
 
