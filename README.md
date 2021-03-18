@@ -31,6 +31,8 @@ The worlds are defaulted to:
 
 (if you want to change theses just open the world to LAN with cheats enabled)
 
+------------------------------------------------------------------------------------------------------------------
+
 CILANTRO:
 
 COORDS (X, Z)
@@ -51,6 +53,7 @@ Matt's House: 771, 1388
 THE BOYS:
 
 COORDS (X, Z)
+
 
 Spawn Camp: 6, 91
 
