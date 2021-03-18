@@ -7,6 +7,10 @@ No player data was recorded (everyone spawns at world spawn, no inventory, no e 
 
 No player reached The End.
 
+Just a bit of history:
+
+  So it was the olden days and I wanted to make a server. I decided to split my 2 friend groups because I have a really really smooth brain (hence why there are 2 world files). We were all working out fine, but the playtime dwindled due to nobody playing together because split groups. Eventually, 1.16 came out and the world file would corrupt if I tried to update, so we were stuck in 1.15.2, which was the real end of the server. Eventually, I ended the Spigot run after a couple months and revamped Halal Skeletor into vanilla.
+
 
 The worlds are defaulted to:
 - Normal Difficulty
@@ -34,5 +38,9 @@ Matt's House: 771, 1388
 THE BOYS:
 
 COORDS (X, Z)
+
+Spawn Camp: 6, 91
+
+Romeo's Camp (several buildings, coords of Granite Tower): 376, 646
 
 
